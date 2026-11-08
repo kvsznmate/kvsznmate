@@ -1,5 +1,3 @@
-<!-- Save this file as README.md in a public repo named exactly: kvsznmate/kvsznmate -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01579b,50:0288d1,100:4FC3F7&height=220&section=header&text=Mate%20Kovasznai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=student at Breda University of applied sciences&descAlignY=58&descSize=18" alt="header" />
@@ -145,8 +143,6 @@ Development on the **Unitree Go2-W** and **G1 humanoid** robots.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kvsznmate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsznmate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=kvsznmate&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
