@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01579b,50:0288d1,100:4FC3F7&height=220&section=header&text=Mate%20Kovasznai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=student at Breda University of applied sciences&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01579b,50:0288d1,100:4FC3F7&height=220&section=header&text=Mate%20Kovasznai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20at%20Breda%20University%20of%20Applied%20Sciences&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://kvsznmate.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=3rd+year+Data+Science+%26+AI+student;I+build+systems+that+solve+everyday+problems;NLP+%7C+Computer+Vision+%7C+MLOps+%7C+Robotics;Looking+for+an+ML+%2F+Data+internship" alt="Typing SVG" />
